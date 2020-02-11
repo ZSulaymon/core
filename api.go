@@ -8,5 +8,6 @@ func Init()  {
 
 func Intit()
 {
+	kotrjhsio soigjiot tkphs 
 	fmt.Println("pzdsss")
 }
