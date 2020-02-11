@@ -7,8 +7,6 @@ func Init()  {
 }
 
 func Intit()
-лкдпод
-ыкдпощзык
 {
 	fmt.Println("pzdsss")
 }
